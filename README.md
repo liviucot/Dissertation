@@ -1,7 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-Dissertation: Icon Generation with a Generative Adversarial Network Conditioned on class 
+## Dissertation: Icon Generation with a Generative Adversarial Network Conditioned on class 
 
 •	Built a Machine Learning algorithm that generates icons conditioned on class
 •	Implemented the program using PyTorch – a Python-based library
