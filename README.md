@@ -1,10 +1,10 @@
 <!-- ABOUT THE PROJECT -->
 ## Dissertation: Icon Generation with a Generative Adversarial Network Conditioned on class 
 
-•	Built a Machine Learning algorithm that generates icons conditioned on class
-•	Implemented the program using PyTorch – a Python-based library
-•	Generated promising icons that can potentially be used in a design system library
-•	The project offered a first glance at how Artificial Intelligence can revolutionise the design industry by assisting the designers in the creative process 
+*	Built a Machine Learning algorithm that generates icons conditioned on class
+* Implemented the program using PyTorch – a Python-based library
+* Generated promising icons that can potentially be used in a design system library
+* The project offered a first glance at how Artificial Intelligence can revolutionise the design industry by assisting the designers in the creative process 
 
 ### Built With
 
